@@ -11,3 +11,13 @@ Given a random height and width of wall, calculate how many cans of paint you'll
                      = 1.6
 
 * Because you can't buy 0.6 of a can of paint, the result should be rounded up to 2 cans.
+
+# Prime Number
+
+A Prime number can only be cleanly divided by itself and 1. For more information: https://en.wikipedia.org/wiki/Prime_number
+
+This program checks whether or not a number is prime:
+
+* 2 is a prime number because it's only divisible by 1 and 2.
+
+* 4 is not a prime number because you can divide it by 1, 2 or 4.
